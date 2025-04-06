@@ -9,6 +9,10 @@ namespace EmailService.Infrastructure.Services.EmailSender;
 public class AmazonSimpleEmailSender : IEmailSender
 {
 	private readonly IAmazonSimpleEmailService _amazonSimpleEmailService;
+ 
+ 	private const string Source = "verified-email@yourdomain.com"; // Update this value
+
+
 
 	public AmazonSimpleEmailSender(IAmazonSimpleEmailService amazonSimpleEmailService)
 	{
@@ -19,7 +23,7 @@ public class AmazonSimpleEmailSender : IEmailSender
 	{
 		var emailRequest = new SendEmailRequest()
 		{
-			Source = "felipecassianofmc@gmail.com",
+			Source = Source,
 			Destination = new Destination()
 			{
 				ToAddresses = [ request.To ],
