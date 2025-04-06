@@ -11,7 +11,7 @@ This project was built using C#, .NET Core and Amazon SES
 ```bash
 git clone https://github.com/FelipeMCassiano/desafio-backend-uber
 ```
-2. Run ```bash dotnet restore```
+2. Run ```dotnet restore```
 3. Update `appsettings.Development.json` putting your AWS credentials
 ```json
 {
