@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7rpreL8Fi+L3bsBJcSiVaOhztOugdAb7rfiNf4M5o/165v1h82DIK1EhUMvY1nqY4C61eKZCsb9mlGMezZZjw==",
+  "success": true,
+  "projectFilePath": "/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Infrastructure/EmailService.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/awssdk.core/3.7.402.35/awssdk.core.3.7.402.35.nupkg.sha512",
+    "/home/felipe/.nuget/packages/awssdk.simpleemail/3.7.402.72/awssdk.simpleemail.3.7.402.72.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.3/microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.extensions.configuration.binder/9.0.3/microsoft.extensions.configuration.binder.9.0.3.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.extensions.primitives/9.0.3/microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

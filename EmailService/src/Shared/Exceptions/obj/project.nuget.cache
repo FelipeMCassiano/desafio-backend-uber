@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqyxynS0ju1FZes4WT6hgQFTWIRG7KMS7tt7ooiJOHpKu+yDAOEaxCDEOjxTU9xH4BZD18KDkSiTm4ujS0k2vA==",
+  "success": true,
+  "projectFilePath": "/home/felipe/projects/email-service/EmailService/src/Shared/Exceptions/Exceptions.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

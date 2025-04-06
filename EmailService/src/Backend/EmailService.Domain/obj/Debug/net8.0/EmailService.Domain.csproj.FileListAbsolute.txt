@@ -1,0 +1,17 @@
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/EmailService.Domain.deps.json
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/EmailService.Domain.dll
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/EmailService.Domain.pdb
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/Communication.dll
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/Exceptions.dll
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/Communication.pdb
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/bin/Debug/net8.0/Exceptions.pdb
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.csproj.AssemblyReference.cache
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.AssemblyInfoInputs.cache
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.AssemblyInfo.cs
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.csproj.CoreCompileInputs.cache
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.csproj.CopyComplete
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.dll
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/refint/EmailService.Domain.dll
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/EmailService.Domain.pdb
+/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/Debug/net8.0/ref/EmailService.Domain.dll

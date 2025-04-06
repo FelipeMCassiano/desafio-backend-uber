@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Communication.dll": {}
+        }
+      },
+      "Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Communication/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Communication/Communication.csproj",
+      "msbuildProject": "../../Shared/Communication/Communication.csproj"
+    },
+    "Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Exceptions/Exceptions.csproj",
+      "msbuildProject": "../../Shared/Exceptions/Exceptions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Communication >= 1.0.0",
+      "Exceptions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/felipe/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/EmailService.Domain.csproj",
+      "projectName": "EmailService.Domain",
+      "projectPath": "/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/EmailService.Domain.csproj",
+      "packagesPath": "/home/felipe/.nuget/packages/",
+      "outputPath": "/home/felipe/projects/email-service/EmailService/src/Backend/EmailService.Domain/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/felipe/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/felipe/projects/email-service/EmailService/src/Shared/Communication/Communication.csproj": {
+              "projectPath": "/home/felipe/projects/email-service/EmailService/src/Shared/Communication/Communication.csproj"
+            },
+            "/home/felipe/projects/email-service/EmailService/src/Shared/Exceptions/Exceptions.csproj": {
+              "projectPath": "/home/felipe/projects/email-service/EmailService/src/Shared/Exceptions/Exceptions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
